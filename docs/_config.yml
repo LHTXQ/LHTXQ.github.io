@@ -1,4 +1,13 @@
+title: "心倾"
+author:
+  name: "心倾"
+description: >
+	"这是心倾的Github主页。"
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 encoding: UTF-8
-theme: jekyll-theme-minimal
-title: XinQing's Homepage
-description: This is the XinQing's Github page.
+domain: lhtxq.github.io
+url: https://lhtxq.github.io/
+baseurl: /docs/
